@@ -1,0 +1,8 @@
+C:\Users\arsen\Desktop\Уник\Game 2048\bin\Debug\game2048.exe
+C:\Users\arsen\Desktop\Уник\Game 2048\obj\x86\Release\game2048.csprojAssemblyReference.cache
+C:\Users\arsen\Desktop\Уник\Game 2048\obj\x86\Release\game2048.Game2048.resources
+C:\Users\arsen\Desktop\Уник\Game 2048\obj\x86\Release\game2048.Properties.Resources.resources
+C:\Users\arsen\Desktop\Уник\Game 2048\obj\x86\Release\game2048.csproj.GenerateResource.cache
+C:\Users\arsen\Desktop\Уник\Game 2048\obj\x86\Release\game2048.exe
+C:\Users\arsen\Desktop\Уник\Game 2048\obj\x86\Release\game2048.pdb
+C:\Users\arsen\Desktop\Уник\Game 2048\bin\Debug\game2048.pdb
